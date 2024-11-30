@@ -2,5 +2,5 @@
 layout: default
 ---
 
-- [Publications](./publications.html)
+# - [Publications](./publications.html)
 
