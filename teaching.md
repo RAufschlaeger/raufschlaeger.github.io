@@ -19,7 +19,7 @@
 
 # 2024
 
-## summer semester 2025
+## summer semester 2024
 
 - KI-28 KI-PROJEKT [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf) / AIN-B-28 AI Project [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf)
   Topics:
