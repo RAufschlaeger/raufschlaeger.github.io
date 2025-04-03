@@ -21,7 +21,7 @@
 
 ## summer semester 2025
 
-- AI Project / KI-Projekt
+- KI-28 KI-PROJEKT [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf) / AIN-B-28 AI Project [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf)
   Topics:
   - Local Chatbot to Search Internal Data of Small and Medium-sized Enterprises (LOCSID4SME) (supervisor: ZVK GmbH)
   - Local ChatBot: Marketing on Fairs (supervisor: AVS Römer GmbH & Co. KG)
