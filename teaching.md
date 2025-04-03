@@ -12,7 +12,7 @@
 
 - supervision of bachelorthesis: XXXX
 
-## winter semester 2024/2026
+## winter semester 2024/2025
 
 - Hackathon (joint organized with Continental Automotive GmbH) in KI-25 PRAXISMODUL / KI-5103 Praxisergänzende Vertiefung 2 [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf) resp. AIN-B-25 Internship / AIN-B-25 Internship-Accompanying Course 2 [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf)
 
