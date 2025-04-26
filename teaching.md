@@ -24,8 +24,8 @@
 - KI-28 KI-PROJEKT [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf) / AIN-B-28 AI Project [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf)
   Topics:
   - Local Chatbot to Search Internal Data of Small and Medium-sized Enterprises (LOCSID4SME) (supervisor: ZVK GmbH)
-  - Local ChatBot: Marketing on Fairs (supervisor: AVS Römer GmbH & Co. KG)
-  - Local ChatBot: Recruiting on Fairs (supervisor: AVS Römer GmbH & Co. KG)
+  - Local ChatBot: Marketing on Fairs (Chat4Market) (supervisor: AVS Römer GmbH & Co. KG)
+  - Local ChatBot: Recruiting on Fairs (Chat4Recruit) (supervisor: AVS Römer GmbH & Co. KG)
   - Detect personally identifiable information in images using CLIP (Contrastive Language Image Pretraining) (CLIP2PII)
 
 
