@@ -13,4 +13,8 @@ Aufschläger, R., Wilhelm, S., Heigl, M., & Schramm, M. (2024). ClustEm4Ano: Clu
 
 # 2023
 Aufschläger, R.; Folz, J.; März, E.; Guggumos, J.; Heigl, M.; Buchner, B.; Schramm, M. Anonymization Procedures for Tabular Data: An Explanatory Technical and Legal Synthesis. Information 2023, 14, 487. 
-[https://doi.org/10.3390/info14090487](https://doi.org/10.3390/info14090487)
+[https://doi.org/10.3390/info14090487](https://doi.org/10.3390/info14090487
+
+# 2019
+
+R. Aufschläger and B. Forster, "CURVATURE – A COMPARISON OF THE MDCA AND THE λ-MDCA ESTIMATOR," in *Proc. 2019 IEEE 16th International Symposium on Biomedical Imaging (ISBI 2019)*, Venice, Italy, Apr. 2019, p. 1848. doi: 10.1109/ISBI.2019.8759566.
