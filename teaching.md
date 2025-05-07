@@ -10,7 +10,7 @@
   - Security Trainer Chatbot for the Lecture on Secure Programming (SECTRAIN)
   - Investigation of TinyML Applications for Image Processing in Autonomous Driving (TINYML) (supervisor: Dr. Amar Almaini)
 
-- supervision of bachelorthesis: XXXX
+- first supervisor of bachelorthesis: XXXX
 
 ## winter semester 2024/2025
 
@@ -27,6 +27,8 @@
   - Local ChatBot: Marketing on Fairs (Chat4Market) (supervisor: AVS Römer GmbH & Co. KG)
   - Local ChatBot: Recruiting on Fairs (Chat4Recruit) (supervisor: AVS Römer GmbH & Co. KG)
   - Detect personally identifiable information in images using CLIP (Contrastive Language Image Pretraining) (CLIP2PII)
+ 
+- second superviser of masterthesis: "Cybersecurity domain ChatBot based on a fine-tuned open-source Large Language Model"
 
 
 
