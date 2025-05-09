@@ -10,7 +10,8 @@
   - Security Trainer Chatbot for the Lecture on Secure Programming (SECTRAIN)
   - Investigation of TinyML Applications for Image Processing in Autonomous Driving (TINYML) (supervisor: Dr. Amar Almaini)
 
-- first supervisor of bachelorthesis: XXXX
+- first supervisor of bachelorthesis: "Anchor Calculation in Deep Learning Signal Detection"
+
 
 ## winter semester 2024/2025
 
