@@ -1,5 +1,7 @@
 # 2025
 
+Aufschläger, R., Shoeb, Y., Nowzad, A., Heigl, M., Bally, F., & Schramm, M. (2025). Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence. arXiv. [https://arxiv.org/abs/2507.01504](https://arxiv.org/abs/2507.01504)
+
 J. Folz et al., "Scoring System for Quantifying the Privacy in Re-Identification of Tabular Datasets," in IEEE Access, doi: 10.1109/ACCESS.2025.3563309.
 keywords: {Data privacy;Measurement;Risk analysis;Open data;Protection;Security;Scalability;Public transportation;Object recognition;Mathematical models;Anonymisation;privacy;re-identification risk;GDPR;uniqueness;uniformity;correlation;Open Data},
 [https://doi.org/10.1109/ACCESS.2025.3563309](https://doi.org/10.1109/ACCESS.2025.3563309)
