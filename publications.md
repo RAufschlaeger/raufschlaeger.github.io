@@ -1,6 +1,12 @@
+# 2026
+Aufschläger, R., Folz, J., Savaliya, G., Vidanalage, M. D., Heigl, M., & Schramm, M. (2026). Towards Context-Aware Image Anonymization with Multi-Agent Reasoning. Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 11114-11123.
+
+Gautam Savaliya, Robert Aufschläger, Abhishek Subedi, Michael Heigl, Martin Schramm:
+PriMod4AI: Lifecycle-Aware Privacy Threat Modeling for AI Systems using LLM, NDSS LAST-X Workshop 2026, San-Diego, USA, 04.02.26
+
 # 2025
 
-Aufschläger, R., Shoeb, Y., Nowzad, A., Heigl, M., Bally, F., & Schramm, M. (2025). Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence. arXiv. [https://arxiv.org/abs/2507.01504](https://arxiv.org/abs/2507.01504)
+Aufschläger, R., Shoeb, Y., Nowzad, A., Heigl, M., Bally, F., & Schramm, M. (2025). Following the Clues: Experiments on Person Re-ID Using Cross-Modal Intelligence. 2025 IEEE 28th International Conference on Intelligent Transportation Systems (ITSC), Gold Coast, Australia, 225-232. https://doi.org/10.1109/ITSC60802.2025.11423064
 
 J. Folz et al., "Scoring System for Quantifying the Privacy in Re-Identification of Tabular Datasets," in IEEE Access, doi: 10.1109/ACCESS.2025.3563309.
 keywords: {Data privacy;Measurement;Risk analysis;Open data;Protection;Security;Scalability;Public transportation;Object recognition;Mathematical models;Anonymisation;privacy;re-identification risk;GDPR;uniqueness;uniformity;correlation;Open Data},
