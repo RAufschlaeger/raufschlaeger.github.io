@@ -1,6 +1,18 @@
+# 2026
+
+## summer semester 2026
+
+- KI-28 KI-PROJEKT [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf) / AIN-B-28 AI Project [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf)
+  Topics:
+  - RAG-based Q&A system for internal process handbooks (PARETO4PROC)
+  - Exploratory analysis of Bavarian water level & environmental data (GKD4HYDRO)
+  - Docker-based sandbox for safely running AI-generated code (VIBEGUARD)
+  - Benchmark anonymization vs. re-identification on Market-1501 (ANON4REID)
+
 # 2025
 
 ## summer semester 2025
+
 - KI-28 KI-PROJEKT [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch_ki_bachelor_2022.pdf) / AIN-B-28 AI Project [https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf](https://www.th-deg.de/Studierende/Antraege-und-Organisatorisches/Modulhandbuecher/modulhandbuch-ain-bachelor%20ws23-24.pdf)
   Topics:
   - Evaluation of LLMs as a Recommendation System for Dataset Anonymization (LLMANO) (supervisor: Jakob Folz)
