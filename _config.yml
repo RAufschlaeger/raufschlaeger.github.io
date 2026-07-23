@@ -1,10 +1,43 @@
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Robert Aufschläger
+description: >-
+  Research assistant and doctoral student at the Deggendorf Institute of
+  Technology, working on Privacy-Preserving Machine Learning, Open Data,
+  and Synthetic Data.
+url: "https://raufschlaeger.github.io"
+lang: en
 
-logo: 1729421334786.jpg
+# --- Author / sidebar profile -------------------------------------------------
+# Each link below only appears in the sidebar if its field is non-empty.
+author:
+  name: Robert Aufschläger
+  avatar: "1729421334786.jpg"
+  bio: >-
+    Research assistant & doctoral student at the Deggendorf Institute of
+    Technology, with a Mathematics / Computer Science background. Interested in
+    Privacy-Enhancing Technologies, Agentic AI, Open Data, and Synthetic Data.
+  employer: "Deggendorf Institute of Technology"
+  location: "Deggendorf, Germany"
+  email: "robert.aufschlaeger@th-deg.de"
+  github: "raufschlaeger"
+  orcid: "0009-0004-0986-3504"    # ORCID iD only, e.g. 0000-0000-0000-0000
+  scholar: "IHNGbV8AAAAJ"         # Google Scholar user id only (the ?user=... value)
 
-title: [Robert Aufschläger]
-description: ["I am a research assistant and doctoral student at Deggendorf Institute of Technology with Maths / Computer Science background and interest in Privacy Preserving Machine Learning, Open Data, and Synthetic Data."]
+# --- Top navigation -----------------------------------------------------------
+nav:
+  - title: About
+    url: /
+  - title: Publications
+    url: /publications.html
+  - title: Teaching
+    url: /teaching.html
 
+# --- Build --------------------------------------------------------------------
+markdown: kramdown
+kramdown:
+  input: GFM
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

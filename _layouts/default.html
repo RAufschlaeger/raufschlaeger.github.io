@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} &middot; {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><defs><linearGradient id=%22g%22 x1=%220%22 y1=%220%22 x2=%221%22 y2=%221%22><stop offset=%220%22 stop-color=%22%232f7d95%22/><stop offset=%221%22 stop-color=%22%236c5ce7%22/></linearGradient></defs><rect width=%22100%22 height=%22100%22 rx=%2220%22 fill=%22url(%23g)%22/><text x=%2250%22 y=%2268%22 font-size=%2260%22 font-family=%22Arial,sans-serif%22 font-weight=%22700%22 fill=%22white%22 text-anchor=%22middle%22>R</text></svg>">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="masthead">
+    <div class="masthead__inner">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      <nav class="site-nav" aria-label="Main">
+        {% for item in site.nav %}
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} class="active"{% endif %}>{{ item.title }}</a>
+        {% endfor %}
+      </nav>
+    </div>
+  </header>
+
+  <div class="page-wrapper">
+    <aside class="sidebar">
+      {% assign a = site.author %}
+      {% if a.avatar %}<img class="author__avatar" src="{{ a.avatar | relative_url }}" alt="{{ a.name }}">{% endif %}
+      <h2 class="author__name">{{ a.name }}</h2>
+      {% if a.bio %}<p class="author__bio">{{ a.bio }}</p>{% endif %}
+      <ul class="author__links">
+        {% if a.employer %}<li><i class="fas fa-university" aria-hidden="true"></i>{{ a.employer }}</li>{% endif %}
+        {% if a.location %}<li><i class="fas fa-location-dot" aria-hidden="true"></i>{{ a.location }}</li>{% endif %}
+        {% if a.email and a.email != "" %}<li><a href="mailto:{{ a.email }}"><i class="fas fa-envelope" aria-hidden="true"></i>Email</a></li>{% endif %}
+        {% if a.github and a.github != "" %}<li><a href="https://github.com/{{ a.github }}"><i class="fab fa-github" aria-hidden="true"></i>GitHub</a></li>{% endif %}
+        {% if a.orcid and a.orcid != "" %}<li><a href="https://orcid.org/{{ a.orcid }}"><i class="fab fa-orcid" aria-hidden="true"></i>ORCID</a></li>{% endif %}
+        {% if a.scholar and a.scholar != "" %}<li><a href="https://scholar.google.com/citations?user={{ a.scholar }}"><i class="fas fa-graduation-cap" aria-hidden="true"></i>Google Scholar</a></li>{% endif %}
+      </ul>
+    </aside>
+
+    <main class="main-content">
+      <article class="page {% if page.class %}page--{{ page.class }}{% endif %}">
+        {% if page.title %}<h1 class="page__title">{{ page.title }}</h1>{% endif %}
+        <div class="page__content">
+          {{ content }}
+        </div>
+      </article>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      &copy; {{ site.author.name }} &middot; Built with
+      <a href="https://jekyllrb.com">Jekyll</a> in the style of
+      <a href="https://academicpages.github.io">Academic Pages</a>.
+    </div>
+  </footer>
+</body>
+</html>
