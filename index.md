@@ -12,7 +12,7 @@ useful while keeping individuals protected.
 ## Research interests
 
 <ul class="tag-list">
-  <li>Privacy-Preserving Machine Learning</li>
+  <li>Privacy-Enhancing Technologies</li>
   <li>Open Data</li>
   <li>Synthetic Data</li>
   <li>Data Anonymization</li>
@@ -22,6 +22,6 @@ useful while keeping individuals protected.
 ## More
 
 - See my [publications](./publications.html) for recent papers on anonymization,
-  re-identification risk, and privacy-preserving machine learning.
+  re-identification risk, and privacy-preserving enhancing technologies.
 - See my [teaching](./teaching.html) for supervised projects, theses, and courses
   at the Deggendorf Institute of Technology.
