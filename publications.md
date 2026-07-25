@@ -4,7 +4,7 @@ title: Publications
 class: publications
 ---
 
-You can also find all my publications on [Google Scholar](https://scholar.google.com/).
+You can also find all my publications on [Google Scholar](https://scholar.google.com/citations?user=IHNGbV8AAAAJ&hl=en).
 
 ## 2026
 
