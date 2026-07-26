@@ -1,25 +1,28 @@
 /* ---------------------------------------------------------------------------
    Academic Pages–style theme (self-contained recreation)
    Left author sidebar + top nav + content column, Minimal-Mistakes-inspired.
-   Palette: blue + grey (sky/slate), used deliberately — not a rainbow.
+   Palette: muted ink/paper tones with a single accent — evokes a preprint
+   typeset in LaTeX. Body copy set in Computer Modern Serif (CMU), the
+   default LaTeX font family, for a "math mode" research feel.
 --------------------------------------------------------------------------- */
 
 :root {
-  /* blue */
-  --blue-900: #0c4a6e;
-  --blue-700: #0369a1;
-  --blue-600: #0284c7;
-  --blue-500: #0ea5e9;
-  --blue-100: #e0f2fe;
-  --blue-50:  #f0f9ff;
+  /* ink (near-black, warm grey — paper/print feel rather than screen-blue-black) */
+  --grey-900: #1a1a1a;
+  --grey-700: #3a3a38;
+  --grey-500: #6b6862;
+  --grey-300: #d4d0c8;
+  --grey-100: #f2efe9;
+  --grey-50:  #faf8f4;
 
-  /* grey (slate) */
-  --grey-900: #0f172a;
-  --grey-700: #334155;
-  --grey-500: #64748b;
-  --grey-300: #cbd5e1;
-  --grey-100: #f1f5f9;
-  --grey-50:  #f8fafc;
+  /* accent: a restrained "LaTeX red" (think \emph, hyperref link red) plus
+     a deep ink-blue for structural chrome — used sparingly, not as a wash */
+  --blue-900: #1c1c1c;
+  --blue-700: #8a1f11;
+  --blue-600: #a6280f;
+  --blue-500: #b8390f;
+  --blue-100: #f4e9df;
+  --blue-50:  #faf4ed;
 
   /* semantic aliases */
   --text:        var(--grey-700);
@@ -28,14 +31,16 @@
   --link:        var(--blue-700);
   --link-hover:  var(--blue-900);
   --border:      var(--grey-300);
-  --bg:          #ffffff;
+  --bg:          #fffdf9;
   --bg-page:     var(--grey-50);
   --bg-subtle:   var(--grey-100);
 
-  --radius:      14px;
-  --shadow-sm:   0 1px 2px rgba(15, 23, 42, 0.06);
-  --shadow-md:   0 8px 24px rgba(15, 23, 42, 0.08);
+  --radius:      6px;
+  --shadow-sm:   0 1px 2px rgba(26, 26, 26, 0.06);
+  --shadow-md:   0 8px 20px rgba(26, 26, 26, 0.08);
   --max:         1200px;
+
+  --font-serif: "Computer Modern Serif", "STIX Two Text", "Times New Roman", Georgia, serif;
 }
 
 * { box-sizing: border-box; }
@@ -46,10 +51,9 @@ body {
   margin: 0;
   color: var(--text);
   background: var(--bg-page);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-               "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  font-size: 16px;
-  line-height: 1.6;
+  font-family: var(--font-serif);
+  font-size: 17px;
+  line-height: 1.65;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -63,8 +67,9 @@ img { max-width: 100%; height: auto; }
   position: sticky;
   top: 0;
   z-index: 20;
-  background: linear-gradient(100deg, var(--blue-900), var(--blue-700) 55%, var(--blue-600));
-  box-shadow: 0 2px 12px rgba(3, 105, 161, 0.25);
+  background: var(--grey-900);
+  border-bottom: 3px solid var(--blue-700);
+  box-shadow: 0 2px 12px rgba(26, 26, 26, 0.2);
 }
 .masthead__inner {
   max-width: var(--max);
@@ -87,10 +92,12 @@ img { max-width: 100%; height: auto; }
 .site-nav { display: flex; flex-wrap: wrap; gap: 0.25rem; }
 .site-nav a {
   color: rgba(255, 255, 255, 0.85);
-  font-weight: 600;
+  font-weight: 700;
   font-size: 0.95rem;
   padding: 0.45rem 0.9rem;
   border-radius: 999px;
+  font-variant: small-caps;
+  letter-spacing: 0.03em;
   transition: background-color 0.15s ease, color 0.15s ease;
 }
 .site-nav a:hover { background: rgba(255, 255, 255, 0.14); color: #fff; text-decoration: none; }
