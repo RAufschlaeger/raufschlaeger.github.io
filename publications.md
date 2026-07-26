@@ -54,7 +54,7 @@ Aufschläger, R., Wilhelm, S., Heigl, M., & Schramm, M. In: *Database Engineered
 
 ## 2024
 
-#### ClustEm4Ano: Clustering Text Embeddings of Nominal Textual Attributes for Microdata Anonymization (preprint)
+#### ClustEm4Ano: Clustering Text Embeddings of Nominal Textual Attributes for Microdata Anonymization
 Aufschläger, R., Wilhelm, S., Heigl, M., Schramm, M. (2025). ClustEm4Ano: Clustering Text Embeddings of Nominal Textual Attributes for Microdata Anonymization. In: Chbeir, R., Ilarri, S., Manolopoulos, Y., Revesz, P.Z., Bernardino, J., Leung, C.K. (eds) Database Engineered Applications. IDEAS 2024. Lecture Notes in Computer Science, vol 15511. Springer, Cham.
 
 <div class="pub-links">
