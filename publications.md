@@ -21,7 +21,7 @@ Aufschläger, R., Folz, J., Savaliya, G., Vidanalage, M. D., Heigl, M., & Schram
 Savaliya, G., Aufschläger, R., Subedi, A., Heigl, M., & Schramm, M. *NDSS LAST-X Workshop 2026*, San Diego, USA, Feb. 2026.
 
 <div class="pub-links">
-<a class="pub-link pub-link--paper" href="https://www.ndss-symposium.org/ndss-paper/auto-draft-685/" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i>Paper</a>
+<a class="pub-link pub-link--paper" href="https://www.ndss-symposium.org/wp-content/uploads/lastx2026-80.pdf" target="_blank"><i class="fas fa-file-pdf" aria-hidden="true"></i>Paper</a>
 <a class="pub-link pub-link--poster" href="https://www.justbetterdata.de/wp-content/uploads/jbD_FE_Poster6_Primod4AI_rechtssicher.pdf" target="_blank"><i class="fas fa-file-powerpoint" aria-hidden="true"></i>Poster</a>
 </div>
 
