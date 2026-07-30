@@ -13,7 +13,7 @@ started my PhD studies in 2024.
 
 Since March 2024, I have also been a freelance lecturer for the "AI Project"
 course in the Artificial Intelligence Bachelor's program at THD, teaching the
-course each semester from 2024 to 2026.
+course each year from 2024 to 2026.
 
 Previously:
 
@@ -34,12 +34,14 @@ Previously:
   Operations in Deep Convolutional Neural Networks*.
 - **M.Sc. Computational Mathematics**, University of Passau, 2019–2021. Focus
   module group: Analysis, Numerics and Approximation Theory.
-- **B.Sc. Mathematics**, University of Passau.
+- **B.Sc. Mathematics**, University of Passau, 2015-2019, subsidiary subject: Informatics.
 
 ## Research interests
 
 <ul class="tag-list">
   <li>Privacy-Enhancing Technologies</li>
+  <li>Agentic AI</li>
+  <li>Multimodal AI</li>
   <li>Open Data</li>
   <li>Synthetic Data</li>
   <li>Data Anonymization</li>
@@ -49,6 +51,6 @@ Previously:
 ## More
 
 - See my [publications](./publications.html) for recent papers on anonymization,
-  re-identification risk, and privacy-preserving enhancing technologies.
+  re-identification risk, agentic/multimodal AI and privacy-preserving enhancing technologies.
 - See my [teaching](./teaching.html) for supervised projects, theses, and courses
   at the Deggendorf Institute of Technology.
