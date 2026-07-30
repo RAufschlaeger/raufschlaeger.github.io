@@ -8,7 +8,7 @@ Supervised student projects, theses, and courses at the Deggendorf Institute of
 Technology.
 
 Freelance lecturer for **KI-28 KI-Projekt** / **AIN-B-28 AI Project** each
-semester from 2024 to 2026.
+year from 2024 to 2026.
 
 ## 2026
 
